@@ -1,1 +1,2 @@
-Nombre: "Bianca Rozalen Kroebel"
+# Nombre: Bianca.
+#Apellidos: Rozalén Kroebel.
